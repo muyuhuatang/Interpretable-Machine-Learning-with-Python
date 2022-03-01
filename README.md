@@ -1,3 +1,5 @@
+original link: https://github.com/PacktPublishing/Interpretable-Machine-Learning-with-Python
+
 # Interpretable Machine Learning with Python
 
 <a href="https://www.packtpub.com/product/interpretable-machine-learning-with-python/9781800203907"><img src="https://static.packt-cdn.com/products/9781800203907/cover/smaller" alt="Interpretable Machine Learning with Pythone" height="256px" align="right"></a>
